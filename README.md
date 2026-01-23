@@ -47,7 +47,7 @@ I am a passionate developer with a strong focus on building scalable backend sys
 ---
 
 ### 📫 Let's Connect!
-- **LinkedIn:** [Ibrahim Mashaqi](www.linkedin.com/in/ibrahim-mashaqi-91b50a235)
+- **LinkedIn:** www.linkedin.com/in/ibrahim-mashaqi-91b50a235
 - **GitHub:** @IbrahimMashaqi
 
 "Code is like humor. When you have to explain it, it’s bad." 😉
