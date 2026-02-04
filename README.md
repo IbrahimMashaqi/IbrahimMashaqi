@@ -160,82 +160,7 @@ A comprehensive student productivity app featuring:
 - Positive feedback on usability and design
 - Continuously improving based on user suggestions
 
----
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=IbrahimMashaqi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IbrahimMashaqi&layout=compact&theme=tokyonight&hide_border=true&langs_count=6&hide=html,css,scss"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=IbrahimMashaqi&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=IbrahimMashaqi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1)
-
-</div>
-
----
-
-## 💼 Professional Experience
-
-### 🎯 Core Competencies
-
-```mermaid
-mindmap
-  root((Ibrahim Mashaqi))
-    Backend Development
-      API Design
-      Microservices
-      Database Design
-      Performance Optimization
-    Mobile Development
-      Flutter
-      Cross-platform
-      UI/UX
-    System Design
-      Scalability
-      Architecture
-      Best Practices
-    Soft Skills
-      Problem Solving
-      Team Collaboration
-      Technical Writing
-```
-
-### 📈 Contribution Graph
-
-<div align="center">
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=IbrahimMashaqi&theme=tokyo-night&hide_border=true)
-
-</div>
-
----
-
-## 🌟 What I Bring to the Table
-
-<table>
-<tr>
-<td width="50%">
-
-### 🎯 Technical Excellence
-- Clean, maintainable code
-- SOLID principles advocate
-- Test-driven development
-- Performance optimization
-- Security best practices
-
-</td>
-<td width="50%">
 
 ### 🤝 Collaboration
 - Clear communication
@@ -248,32 +173,6 @@ mindmap
 </tr>
 </table>
 
----
-
-## 📚 Current Learning Journey
-
-```javascript
-const learningPath2025 = {
-    reading: [
-        "System Design Interview by Alex Xu",
-        "Clean Architecture by Robert C. Martin",
-        "Designing Data-Intensive Applications"
-    ],
-    exploring: [
-        "Kubernetes & Container Orchestration",
-        "Event-Driven Architecture",
-        "Distributed Systems Design",
-        "Advanced Flutter Patterns"
-    ],
-    building: [
-        "Real-time collaborative editor",
-        "Microservices with NestJS",
-        "AI-powered study assistant"
-    ]
-};
-```
-
----
 
 ## 🤝 Let's Connect & Collaborate
 
